@@ -1,0 +1,23 @@
+body {
+    background: #fefefe;
+}
+
+h2 {
+    color: #1460AA;
+}
+
+.art_title {
+    color: hotpink;
+}
+
+.main_title {
+    color: green;
+}
+
+body h1 {
+    color: red;
+}
+
+h1 {
+    color: yellow;
+}
